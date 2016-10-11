@@ -16,16 +16,14 @@ Depois de feito esse cadastro, os técnicos do SUS que irão trabalhar nesse sis
 Nesse sistema, também será possível visualizar as consultas e as doenças que determinado médico fez durante um período de tempo, podendo assim visualizar como e com o que ele trabalhou em um determinado período de tempo.<br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20%20solcita%C3%A7%C3%A3o.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Cadastro%20emergencia.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Consulta.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Graficos.png)
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Login.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Relatorios.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Consulta.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20%20solcita%C3%A7%C3%A3o.png)
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20cadastro%20vaga.png)
-
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Cadastro%20emergencia.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Relatorios.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Graficos.png)
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
