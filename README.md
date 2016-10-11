@@ -7,7 +7,8 @@ Trabalho desenvolvido durante a disciplina de BD
 Edson Simões Boldrini e Everson Delmaschio<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Este documento contém a especificação do projeto do banco de dados docmove e motivação da escolha realizada. <br>
+O projeto Docmove seria usado a princípio pelo Sistema Único de Saúde podendo ser utilizado em outras redes de médicos no Brasil e no mundo. Esse projeto tenta atender a demanda de remanejamento de médicos dentro dessas redes, um sistema com uma base de dados grande que avalia muitas possibilidades na hora de remanejar um médico. <br> 
 
 ###3	MINI-MUNDO<br>
 O SUS quer um sistema de realocação de médicos sejam elas por motivos emergenciais ou motivos de remanejamento apenas.<br>
