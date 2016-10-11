@@ -13,11 +13,15 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
-
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20%20solcita%C3%A7%C3%A3o.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Cadastro%20emergencia.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Consulta.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Graficos.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Login.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Relatorios.png)
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20cadastro%20vaga.png)
 
 
 ###5	MODELO CONCEITUAL<br>
