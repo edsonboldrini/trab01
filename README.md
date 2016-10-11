@@ -10,7 +10,10 @@ Edson Simões Boldrini e Everson Delmaschio<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
 
 ###3	MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+O SUS quer um sistema de realocação de médicos sejam elas por motivos emergenciais ou motivos de remanejamento apenas. 
+Esse sistema funcionará como. Um cadastro de todos os médicos disponíveis. Nesse cadastro, deverão ser informados dados como: Nome, data de nascimento, Registro militar(se houver), local onde mora, especialidade, doenças tratadas etc. 
+Depois de feito esse cadastro, os técnicos do SUS que irão trabalhar nesse sistema farão os remanejamentos de acordo com a necessidade de cada região. Se em determinada região há um número excessivo de médicos de uma determinada especialidade, ele também pode ser remanejado para outro lugar. 
+Nesse sistema, também será possível visualizar as consultas e as doenças que determinado médico fez durante um período de tempo, podendo assim visualizar como e com o que ele trabalhou em um determinado período de tempo.<br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
