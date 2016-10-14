@@ -32,7 +32,7 @@ quais cidades possuem alguma emergência, quais emergências estão sendo atendi
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/BD_SUS.jpg "Modelo Conceitual")
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/bd_SUS.jpg "Modelo Conceitual")
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
