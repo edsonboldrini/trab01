@@ -37,7 +37,7 @@ quais cidades possuem alguma emergência, quais emergências estão sendo atendi
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
+    [Grupo01]: [Ana Rubia] - Tabalho Validado
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
 ####5.2 DECISÕES DE PROJETO
