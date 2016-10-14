@@ -38,7 +38,7 @@ quais cidades possuem alguma emergência, quais emergências estão sendo atendi
 
 ####5.1 Validação do Modelo Conceitual
     [Grupo01]: [Ana Rubia] - Tabalho Validado
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo02]: [André Barbosa] - Trabalho Validado
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
