@@ -35,7 +35,7 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/bd_SUS.jpg "Modelo Conceitual")
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Conceitual%20final.jpg "Modelo Conceitual")
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
