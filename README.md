@@ -11,14 +11,17 @@ Este documento contém a especificação do projeto do banco de dados docmove e 
 O projeto Docmove seria usado a princípio pelo Sistema Único de Saúde podendo ser utilizado em outras redes de médicos no Brasil e no mundo. Esse projeto tenta atender a demanda de remanejamento de médicos dentro dessas redes, um sistema com uma base de dados grande que avalia muitas possibilidades na hora de remanejar um médico. <br> 
 
 ###3	MINI-MUNDO<br>
-O Ministério público de saúde deseja um sistema para dar apoio ao Sistema de saúde do Brasil. O objetivo principal do sistema é ser capaz de mobilizar os médicos do sistema SUS em casos de emergência. Além disso o sistema também irá dar apoio ao cadastramento de vagas em determinadas cidades ou até mesmo solicitar médicos específicos para determinadas necessidades. Em casos de emergência o sistema irá notificar todos os médicos que possuem o perfil daquela emergência, e solicitar que os mesmos se apresentem ao ministério da saúde.<br>
-Os Administradores cadastrem emergências, vagas e solicitações de médicos. Um administrador pode ser um funcionário do ministério público de saúde ou um funcionário de um hospital. em relação ao administrador é importante saber seu nome, região e sua identificação no ministério da saúde.<br>
-Os administradores podem cadastrar emergências para realocar os médicos necessários.<br>
-Para o cadastro de emergências é importante saber: A doença, a especialidade, o grau de necessidade, a quantidade de casos confirmados, o número de médicos necessários e o local da emergência.<br>
-Os administradores podem  cadastrar vagas de médicos para determinadas regiões. no cadastro de vagas é importante saber: A especialidade, o grau de necessidade, o número de médicos necessários e o local da emergência e se a vaga é temporária ou permanente. 
-Os Administradores podem solicitar médicos específicos para suas regiões. Para a solicitação de um médico é importante saber: O registro técnico do médico, e sua situação militar, a região a qual está solicitando o médico, o nível de necessidade e se a solicitação é para viagem ou realocação. Caso um médico seja solicitado ele irá receber um email informando e será contactado pelos representantes do ministério da saúde para verificar a disponibilidade do médico.<br>
-Os administradores podem ter acessos a relatórios. entre os relatórios é importante saber:
-quais cidades possuem alguma emergência, quais emergências estão sendo atendidas, os médicos que possuem registro militar entre outros.<br>
+O Ministério público de saúde deseja um sistema para dar apoio ao Sistema de saúde do Brasil. O objetivo principal do sistema é ser capaz de mobilizar os médicos do sistema SUS em casos de emergência. Além disso o sistema também irá dar apoio ao cadastramento de
+vagas em determinadas cidades ou até mesmo solicitar médicos específicos para determinadas necessidades. Em casos de emergência o sistema irá notificar todos os médicos que possuem o perfil daquela emergência, e solicitar que os mesmos se
+apresentem ao ministério da saúde. <br>
+Os Administradores cadastram as emergências, vagas e solicitações de médicos. Um administrador pode ser um funcionário do ministério público de saúde ou um funcionário de um hospital. Em relação ao administrador é importante saber seu nome, região e sua
+identificação no ministério da saúde. <br>
+Os administradores podem cadastrar emergências para realocar os médicos necessários. Para o cadastro de emergências é importante saber: A doença, a especialidade, o grau de necessidade, a quantidade de casos confirmados, o número de médicos necessários e o
+local da emergência. <br>
+Os administradores podem cadastrar vagas de médicos para determinadas regiões. No cadastro de vagas é importante saber: A especialidade, o grau de necessidade, o número de médicos necessários e o local da emergência e se a vaga é temporária ou permanente. <br>
+Os Administradores podem solicitar médicos específicos para suas regiões. Para a solicitação de um médico é importante saber: O registro técnico do médico, e sua situação militar, a região a qual está solicitando o médico, o nível de necessidade e se a solicitação é
+para viagem ou realocação. Caso um médico seja solicitado ele irá receber um email informando e será contactado pelos representantes do ministério da saúde para verificar a disponibilidade do médico. <br>
+Os administradores podem ter acessos a relatórios. Entre os relatórios é importante saber: quais cidades possuem alguma emergência, quais emergências estão sendo atendidas, os médicos que possuem registro militar entre outros. <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Login.png)
