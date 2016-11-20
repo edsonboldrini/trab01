@@ -63,7 +63,7 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Lógico")
 
 ###7	MODELO FÍSICO<br>
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/modelo%20_Fisico-final.sql "Modelo Físico")
+https://github.com/edsonsb96/trab01/blob/master/modelo%20_Fisico-final.sql
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
