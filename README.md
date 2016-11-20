@@ -35,13 +35,13 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final.jpg "Modelo Conceitual")
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-conceitual.jpg "Modelo Conceitual")
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Ana Rubia] - Tabalho Validado
-    [Grupo02]: [André Barbosa] - Trabalho Validado
+    [Grupo01] -> [Ana Rubia] - Tabalho Validado
+    [Grupo02] -> [André Barbosa] - Trabalho Validado
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
@@ -60,7 +60,10 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 
 
 ###6	MODELO LÓGICO<br>
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Conceitual")
+
 ###7	MODELO FÍSICO<br>
+
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
