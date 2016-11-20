@@ -76,6 +76,7 @@ https://github.com/edsonsb96/trab01/blob/master/modelo%20_Fisico-final.sql
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
+        https://github.com/edsonsb96/trab01/blob/master/Insert_medicos.txt
         c) inclusão das instruções para execução de outros procedimentos necessários
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
